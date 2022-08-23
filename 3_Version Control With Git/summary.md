@@ -1,9 +1,9 @@
 # QE_Rona-Novtami-Lumban-Gaol
  
 GIT dan GITHUB
-Versioning adalah mengatur versi dari source code program (melakukan sebuah pengaturan versi atau pelacakan perubahan dari setiap code program) .
+<br/>Versioning adalah mengatur versi dari source code program (melakukan sebuah pengaturan versi atau pelacakan perubahan dari setiap code program) .
 
-Tujuan dari versioning adalah untuk melakukan pengetrackan kesalahan pada project.
+<br/>Tujuan dari versioning adalah untuk melakukan pengetrackan kesalahan pada project.
 Tools yang digunakan untuk melakukan track revisi adalah :
 1.	Version Control System (VCS)
 2.	Source Code Manager (SCM)
