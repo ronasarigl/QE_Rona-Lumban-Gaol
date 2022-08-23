@@ -7,6 +7,7 @@ Tools yang digunakan untuk melakukan track revisi adalah :
 1.	Version Control System (VCS)
 2.	Source Code Manager (SCM)
 3.	 Revision Control System (RCS)
+<b><b>
 Perkembangan Version Control System :
 1.	Single User (bersifat localized)
 2.	Centralized ( Sudah memiliki server dan tidak memiliki lokal)
