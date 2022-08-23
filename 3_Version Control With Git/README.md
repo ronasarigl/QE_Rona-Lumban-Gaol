@@ -2,7 +2,8 @@
  
 GIT dan GITHUB
 <br/>Versioning adalah mengatur versi dari source code program (melakukan sebuah pengaturan versi atau pelacakan perubahan dari setiap code program) .
-Tujuan dari versioning adalah untuk melakukan pengetrackan kesalahan pada project.
+
+<br/>Tujuan dari versioning adalah untuk melakukan pengetrackan kesalahan pada project.
 Tools yang digunakan untuk melakukan track revisi adalah :
 1.	Version Control System (VCS)
 2.	Source Code Manager (SCM)
@@ -11,6 +12,7 @@ Tools yang digunakan untuk melakukan track revisi adalah :
 1.	Single User (bersifat localized)
 2.	Centralized ( Sudah memiliki server dan tidak memiliki lokal)
 3.	Distributed (Memiliki server dan Lokal yang sudah tersinkron ke server)
+
 <br/>GIT merupakan salah satu version contrik system popular yang digunakan para developer untuk mengembangkan software secara bersama-sama. GIT bersifat terdistribusi dan dibuat oleh LINUX (2005). GIT repository terdiri dari folders and files, dan history. 
 <br/>Git hub merupakan semacam git server yang menampung repository atau prohect yang bisa disetting public dan privat.
 <br/>Branch merupakan core dalam project yang mengerjakan khsusus perubahan-perubahan pada sebuah project tanpa harus mengubah code utama.
