@@ -10,4 +10,4 @@
 <br/> Sisa air di ember 5L di isi ke ember 3L
 <br/> Ember 3L sekarang berisi air 2L
 <br/> Ember 5L diisi kembali dan dituangkan ke ember 3L
-<br/> Air terakhir yang berisi di ember 5L ada sebanyak 4L
+<br/> Air terakhir yang terisi di ember 5L ada sebanyak 4L
