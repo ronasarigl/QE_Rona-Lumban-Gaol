@@ -6,11 +6,11 @@
 <br/> Menjadi dasar bagi pemgembangan project
 <br/> Sebagai client atau product owner untuk menyesuaikan dengan requirement
 
-# Tools yang digunakan
+<br/> Tools yang digunakan
 <br/> Google spreadsheet,Tesling, dll
 
 # Kriteria tes scenario yang baik
-<br/> menyesuaikan sesuai dengan requirement
+<br/> Menyesuaikan sesuai dengan requirement
 <br/> Sikap user seolah membutuhkan hal tersebut
 <br/> Memberikan rincian spesifik hal yang perlu diketahui oleh user
 <br/> Harus saling berkesinambungan
@@ -19,10 +19,10 @@
 <br/> Catat update yang terjadi
 
 # Tes Case
-<br/> merupakan rangkaian atau rancangan yang dilakukan oleh software tester terhadap fitur tertentu dari perangkat lunak.
+<br/> Merupakan rangkaian atau rancangan yang dilakukan oleh software tester terhadap fitur tertentu dari perangkat lunak.
 
 # Hal yang dibutuhkan dalam membuat test case
-<br/> sederhana dan transparan
+<br/> Sederhana dan transparan
 <br/> Memenuhi syarat client yang mudah dilakukan
 <br/> Hindari pengulangan kasus uji
 <br/> Jangan berasumsi
