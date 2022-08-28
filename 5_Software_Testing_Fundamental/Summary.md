@@ -21,8 +21,12 @@ Sebuah proses melakukan analisis sebuah perangkat lunak untuk mendeteksi perbeda
 <br/>Maintenance, contohnya regression
 
 # Level of testing
-<br/>Unit testing merupakan tingkat pengujian perangkat lunak di mana unit / komponen perangkat lunak individu diuji
-<br/>Integration testing merupakan tingkat pengujian perangkat lunak di mana unit individu cmbined dan diuji sebagai kelompok
-<br/>System Testing merupakan tingkat pengujian perangkat lunak di mana perangkat lunak yang lengkap dan terintegrasi diuji
-<br/>Acceptance testing merupakan tingkat pengujian perangkat lunak di mana Sistem diuji untuk penerimaan
+## Unit testing 
+<br/> merupakan tingkat pengujian perangkat lunak di mana unit / komponen perangkat lunak individu diuji
+## Integration testing
+<br/> merupakan tingkat pengujian perangkat lunak di mana unit individu cmbined dan diuji sebagai kelompok
+## System Testing 
+<br/> merupakan tingkat pengujian perangkat lunak di mana perangkat lunak yang lengkap dan terintegrasi diuji
+## Acceptance testing 
+<br/> merupakan tingkat pengujian perangkat lunak di mana Sistem diuji untuk penerimaan
 
