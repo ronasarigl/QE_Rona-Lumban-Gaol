@@ -1,5 +1,5 @@
 # Tes scenario
-<br/> merupakan dokumen berisi sekumpulan langkah-langkah yang disusun oleh software tester agar sistem yang akan dites menmenuhi ketentuan yang diingankan oleh user
+<br/> Merupakan dokumen berisi sekumpulan langkah-langkah yang disusun oleh software tester agar sistem yang akan dites menmenuhi ketentuan yang diingankan oleh user
 
 # Tujuan membuat tes skenario
 <br/> Memudahkan developer dan tester dalam melakukan testing
