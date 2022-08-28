@@ -11,7 +11,7 @@ Sebuah proses melakukan analisis sebuah perangkat lunak untuk mendeteksi perbeda
 <br/> API 
 <br/> merupakan pengembangan dari inovasi Software yang memungkinkan berbagai aplikasi bertukar data dan fungsionalitas dengan mudah dan aman
 <br/> WEB 
-merupakan kumpulan halaman yang beisi informasi tertentu dan dapat diakses melalui internet
+<br/> merupakan kumpulan halaman yang beisi informasi tertentu dan dapat diakses melalui internet
 <br/>Mobile terdiri dari android dan ios
 <br/>Dekstop 
 
