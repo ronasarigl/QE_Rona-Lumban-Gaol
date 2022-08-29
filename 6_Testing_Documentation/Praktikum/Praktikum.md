@@ -1,5 +1,5 @@
 
- # 1, Code coverage 
+ # 1. Code coverage 
 <br/>merupakan pengukuran untuk menguji apakah semua line sudah teruji ketika melakukan testing. 
 <br/>Hal ini biasanya di tandai dengan presentase pada sebuah tools yang dipakai pada saat menguji program. 
 <br/>Maximum angka 100% ketika semua line pada suatu program sudah tereksekusi/teruji
