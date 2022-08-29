@@ -18,5 +18,5 @@
 <br/> Pada code terdapat public untuk menjumlahkan yang dimana terdapat 2 variable integer a dan b lalu akan dibuat fungsi int c untuk mendapatkan hasil penjumlahan antara int a ditambah int b 
 Lalu dilakukan return untuk menprint hasil
 # Pada bagian berarna merah
-<br/> Pada code terdapat public untuk menjumlahkan yang dimana terdapat 2 variable integer a dan b lalu akan dibuat fungsi int c untuk mendapatkan hasil pengurangan antara int a dikurang int b 
+<br/> Pada code terdapat public untuk mengurangkan yang dimana terdapat 2 variable integer a dan b lalu akan dibuat fungsi int c untuk mendapatkan hasil pengurangan antara int a dikurang int b 
 Lalu dilakukan return untuk menprint hasil
