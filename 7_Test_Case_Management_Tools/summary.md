@@ -1,7 +1,7 @@
 # Apakah itu test case management tools 
 <br/>Merupakan software atau situs yang digunakan oleh software tester untuk menyimpan informasi terkait bagaimana pengujian produk harus dilakukan, perencanaan kegiatan pengujian beserta dokumen terkait pelaporan, status kegiatan, penjaminan kualitas produk, dsb.
 
-#Alasan dibutuhkannya test case mangement produk:
+# Alasan dibutuhkannya test case mangement produk:
 <br/>1. Plan and estimate
 <br/>Pada test case management, plan and estimate dibuat dalam tes plan dimana dilakukan test terhadap fitur apa saja yang terdapat pada plan tersebut, hal apa saja yang berhubungan dengan plan tersebut, dll,
 Setelah mengetahui detail project dapat dilakukan estimasi.
