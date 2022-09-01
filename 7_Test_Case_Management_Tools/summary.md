@@ -1,7 +1,7 @@
 # Apakah itu test case management tools 
 <br/>Merupakan software atau situs yang digunakan oleh software tester untuk menyimpan informasi terkait bagaimana pengujian produk harus dilakukan, perencanaan kegiatan pengujian beserta dokumen terkait pelaporan, status kegiatan, penjaminan kualitas produk, dsb.
 
-#Alasan dibutuhkannya test case mangement produk:
+# Alasan dibutuhkannya test case mangement produk:
 <br/>1. Plan and estimate
 <br/>Pada test case management, plan and estimate dibuat dalam tes plan dimana dilakukan test terhadap fitur apa saja yang terdapat pada plan tersebut, hal apa saja yang berhubungan dengan plan tersebut, dll,
 Setelah mengetahui detail project dapat dilakukan estimasi.
@@ -10,7 +10,7 @@ Setelah mengetahui detail project dapat dilakukan estimasi.
 <br/>3. Reporting and integrate with another tools
 <br/>Sehingga dalam proses reporting tidak lagi manual sudah bisa menggunakan software seperti jira,dll.
 
-# Contoh test case management Testrail,Testlink,dll.
+# Contoh test case management Testrail, Testlink, dll.
 
 # Bagaimana cara menggunakan testrail
 <br/>1. Login
@@ -18,7 +18,7 @@ Setelah mengetahui detail project dapat dilakukan estimasi.
 <br/>3. Isi judul project + klik use a single repository for all cases
 <br/>4. Klik add project
 
-# Bagaimana membuat milestones(untuk melakukan pelacakan terhadap progress)
+# Bagaimana membuat milestones (untuk melakukan pelacakan terhadap progress)
 <br/>1. Klik add milestones
 <br/>2. Isi bagian kosong dengan project yang ingin dibuat
 <br/>3. Klik add minestones  
@@ -34,8 +34,7 @@ Setelah mengetahui detail project dapat dilakukan estimasi.
 <br/>1. Klik menu test plan
 <br/>1. Klik add test plan
 <br/>3. Isi bagian kosong dengan detail test yang ingin dibuat
-<br/>4. Klik include all test cases
-<br/>5. Klik add test plan
+<br/>4. Klik add test plan
 
 # Bagaimana cara membuat test case 
 <br/>1. Klik menu test case
