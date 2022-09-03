@@ -11,7 +11,6 @@
 ## Tahapan dalam SDLC
 <br/>1. Requirement Gathering, pada tahap ini sistem akan dianalisis bagaiman akan dijalankan nantinya
 <br/>2. Design, membuat model  cara kerja software atau project
-
 	<br/>Hal yang diperhatikan dalam tahapan design
 	<br/>1. Komunikasi 
 	<br/>2. Programming
@@ -19,7 +18,6 @@
 	<br/>4. User interface
 	<br/>5. Platform
 	<br/>6. Security
-	
 <br/>3.Development (Code), Pada tahap ini biasanya program atau code ditulis
 <br/>4.Testing, untuk mengecek apakah sistem bekerja optimal dan sesuai dengan perancangan
 <br/>5.Deployment, aplikasi sudah tersdia untuk digunakan
