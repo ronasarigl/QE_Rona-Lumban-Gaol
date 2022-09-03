@@ -1,5 +1,5 @@
 # Tracking Management Tools
-<br/> sebuah software yang digunakan dalam mengolah suatu proyek atau development software agar bisa berjalan secara efisien dan efektif
+<br/> Sebuah software yang digunakan dalam mengolah suatu proyek atau development software agar bisa berjalan secara efisien dan efektif
 
 # JIRA
 <br/>Mrupakan suatu alat bantu yang berfungsi dalam pelacakan bug, pelacakan issue dan manajemen proyek.
