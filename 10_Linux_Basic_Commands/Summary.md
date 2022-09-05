@@ -1,7 +1,7 @@
 # Linux Basic Command
-<br/> Sebuah utilitas dari sistem operasi Linux diman tugas dasar dan lanjutan dapat dilakukan dengan commands
+<br/> Sebuah utilitas dari sistem operasi Linux diman tugas dasar dan lanjutan dapat dilakukan dengan commands.
 <br/> Commands dijalankan di terminal linux, dan sepenuhnya test-based.
-<br/> Terminal merupakan antar muka baris perintah berinteraksi dengan sistem
+<br/> Terminal merupakan antar muka baris perintah berinteraksi dengan sistem.
 
 ## Kelebihan Command Line
 <br/>1. Lebih sedikit sumber daya yang digunakan
@@ -17,6 +17,6 @@
 <br/> File Acces Permision, contohnya chmod (membaca, menulis,dan menjalankan permission),chown (memungkinkan kita mengubah dan mentransfer file ke username khusus yang spesifik)
 
 # Shell Script
-<br/> Merupakan sebuah bahasa pemrograman disusun berdasarkan command command shell
-<br/> Shell merupakan program yang berfungsi sebagai jembatan angtar user dan kernel
-<br/> Keuntungan menggunakan shell script dimana ketika mengekekusi beberapa command secara berturut-turut dengan satu klik saja
+<br/> Merupakan sebuah bahasa pemrograman disusun berdasarkan command command shell.
+<br/> Shell merupakan program yang berfungsi sebagai jembatan angtar user dan kernel.
+<br/> Keuntungan menggunakan shell script dimana ketika mengekekusi beberapa command secara berturut-turut dengan satu klik saja.
