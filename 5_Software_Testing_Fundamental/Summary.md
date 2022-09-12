@@ -24,7 +24,7 @@ Sebuah proses melakukan analisis sebuah perangkat lunak untuk mendeteksi perbeda
 ## Unit testing 
 <br/> merupakan tingkat pengujian perangkat lunak di mana unit / komponen perangkat lunak individu diuji
 ## Integration testing
-<br/> merupakan tingkat pengujian perangkat lunak di mana unit individu cmbined dan diuji sebagai kelompok
+<br/> merupakan tingkat pengujian perangkat lunak di mana unit individu combined dan diuji sebagai kelompok
 ## System Testing 
 <br/> merupakan tingkat pengujian perangkat lunak di mana perangkat lunak yang lengkap dan terintegrasi diuji
 ## Acceptance testing 
