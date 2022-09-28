@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search","null keyword","SUCCESS","2022-09-28T08:58:27.2621975+07:00[Asia/Bangkok]","0.0","0.04"
+"Search","invalid keyword","SUCCESS","2022-09-28T08:58:27.3152018+07:00[Asia/Bangkok]","0.0","0.02"
+"Search","valid keyword","SUCCESS","2022-09-28T08:58:27.3401966+07:00[Asia/Bangkok]","0.0","0.01"

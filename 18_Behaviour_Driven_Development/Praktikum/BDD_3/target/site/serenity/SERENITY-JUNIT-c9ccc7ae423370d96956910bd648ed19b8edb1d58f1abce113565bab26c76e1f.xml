@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Search" skipped="0" tests="3" time="0.05" timestamp="2022-09-28 09:00:12"><testcase name="null keyword"/><testcase name="invalid keyword"/><testcase name="valid keyword"/></testsuite>
