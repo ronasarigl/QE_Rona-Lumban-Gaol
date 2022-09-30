@@ -39,4 +39,3 @@
 <br/> Setiap baris tabel dideklarasikan menggunakan <tr></tr>
 <br/> Setiap kolom tabel dideklarasikan menggunakan <td></td>
 <br/> Untuk kolom pada tabel header menggunakan <th></th>
-

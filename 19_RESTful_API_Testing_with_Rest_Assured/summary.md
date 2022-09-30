@@ -19,3 +19,9 @@
 <br/>2. Component Testing (Menguji setiap komponen indidvidu secara terpisah)
 <br/>3. Integration testing (Pengujian dari hasil penggabungan unit-unit testing)
 <br/>4. UI Testing (menguji interaksi antara keseluruhan melalui antarmuka pengguna)
+
+<br/> API (Application Programming Interface)
+<br/> merupakan mekanisme yang memungkinkan dua komponen perangkat lunak untuk saling berhubungan dengan menggunakan serangkaian defenisi dan protokol
+<br/> Client merupakan pengguna yang ingin mengakses informasi dari web yang dapat berupa orang atau software yang menggunakan API
+<br/> Resource merupakan informasi yang diberikan oleh aplikasi yang berada kepada klien mereka yang dapat berupa file gambar atau jenis data apapun
+<br/> Server merupakan mesin yang memberikan resource ke client
