@@ -1,0 +1,7 @@
+owner: appium
+repo: appium-desktop
+provider: github
+vPrefixedTagName: true
+updaterCacheDirName: appium-desktop-updater
+publisherName:
+  - 'Developer ID Application: JSFoundation, Inc (G58F7ZX4UL)'
