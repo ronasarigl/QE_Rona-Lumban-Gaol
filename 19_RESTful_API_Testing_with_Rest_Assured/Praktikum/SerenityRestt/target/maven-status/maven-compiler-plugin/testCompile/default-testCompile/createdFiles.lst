@@ -1,0 +1,5 @@
+starter\Account\GenerateToken.class
+starter\CucumberTestSuite.class
+starter\stepdefenition\Projects\GetAccountSteps.class
+starter\stepdefenition\Projects\GenerateTokenSteps.class
+starter\Account\GetAccount.class

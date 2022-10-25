@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: Generate Token
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 9.41 s <<< FAILURE! - in Generate Token
+Generate Token.Generate token with valid username and valid password  Time elapsed: 3.713 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+
+Generate Token.Generate token with invalid username and valid password  Time elapsed: 0.818 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Response body doesn't match expectation.
+Expected: "Success"
+  Actual: {"code":"1200","message":"UserName and Password required."}
+
+
+Generate Token.Generate token with valid username and invalid password  Time elapsed: 0.784 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Response body doesn't match expectation.
+Expected: "Success"
+  Actual: {"code":"1200","message":"UserName and Password required."}
+
+

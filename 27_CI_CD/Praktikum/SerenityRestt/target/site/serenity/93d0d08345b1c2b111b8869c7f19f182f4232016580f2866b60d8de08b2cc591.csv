@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Generate Token","Generate token with valid username and valid password","FAILURE","2022-10-25T20:34:36.8594618+07:00[Asia/Bangkok]","0.0","3.57"
+"Generate Token","Generate token with invalid username and valid password","FAILURE","2022-10-25T20:34:44.4529854+07:00[Asia/Bangkok]","0.0","0.82"
+"Generate Token","Generate token with valid username and invalid password","FAILURE","2022-10-25T20:34:45.272263+07:00[Asia/Bangkok]","0.0","0.78"

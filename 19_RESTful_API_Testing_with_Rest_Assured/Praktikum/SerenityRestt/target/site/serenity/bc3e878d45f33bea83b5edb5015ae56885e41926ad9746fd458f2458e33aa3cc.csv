@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Generate Token","Generate token with null username and valid password","SUCCESS","2022-10-25T20:34:40.4374851+07:00[Asia/Bangkok]","0.0","0.76"
+"Generate Token","Generate token with null username and invalid password","SUCCESS","2022-10-25T20:34:41.2018185+07:00[Asia/Bangkok]","0.0","0.93"
+"Generate Token","Generate token with valid username and null password","SUCCESS","2022-10-25T20:34:42.133121+07:00[Asia/Bangkok]","0.0","0.8"
+"Generate Token","Generate token with invalid username and null password","SUCCESS","2022-10-25T20:34:42.9314878+07:00[Asia/Bangkok]","0.0","0.76"
+"Generate Token","Generate token with invalid username and invalid password","SUCCESS","2022-10-25T20:34:43.6912225+07:00[Asia/Bangkok]","0.0","0.76"
