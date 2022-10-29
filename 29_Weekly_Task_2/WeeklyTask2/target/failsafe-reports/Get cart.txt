@@ -1,4 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: Get cart
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.881 s - in Get cart
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 34.311 s <<< FAILURE! - in Get cart
+Get cart.get all cart  Time elapsed: 34.311 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <522>.
+
+

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Get product
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 35.86 s <<< FAILURE! - in Get product
+Get product.Get all product  Time elapsed: 35.086 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <522>.
+
+

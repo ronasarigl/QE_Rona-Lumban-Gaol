@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get cart","get all cart","FAILURE","2022-10-29T20:28:57.492309+07:00[Asia/Bangkok]","0.0","33.95"
+"Delete cart","delete a cart","FAILURE","2022-10-29T20:28:57.4793088+07:00[Asia/Bangkok]","0.0","33.96"
+"Delete a product","Delete a product","FAILURE","2022-10-29T20:28:57.3313126+07:00[Asia/Bangkok]","0.0","34.11"
+"Get user","get a single user","FAILURE","2022-10-29T20:29:01.0109412+07:00[Asia/Bangkok]","0.0","31.68"
+"User login","Login with invalid username and password","FAILURE","2022-10-29T20:29:01.0189434+07:00[Asia/Bangkok]","0.0","32.21"
+"Get product","Get all product","FAILURE","2022-10-29T20:28:57.4653117+07:00[Asia/Bangkok]","0.0","34.7"

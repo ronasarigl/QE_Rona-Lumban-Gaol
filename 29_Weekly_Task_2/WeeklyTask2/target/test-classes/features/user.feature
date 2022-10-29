@@ -3,7 +3,8 @@ Feature: Delete user
   I want to delete a user
   So I can manage the store
 
-  Scenario: delete a user
+  Scenario: Delete a user
     Given I set url delete user
     When I send request delete user
     Then I get status code 200
+

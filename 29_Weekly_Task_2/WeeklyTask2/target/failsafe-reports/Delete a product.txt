@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Delete a product
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 34.312 s <<< FAILURE! - in Delete a product
+Delete a product.Delete a product  Time elapsed: 34.312 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <522>.
+
+

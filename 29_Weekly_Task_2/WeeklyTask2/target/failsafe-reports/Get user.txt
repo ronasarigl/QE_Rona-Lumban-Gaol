@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Get user
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 35.621 s <<< FAILURE! - in Get user
+Get user.get a single user  Time elapsed: 31.692 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <522>.
+
+

@@ -12,5 +12,6 @@ public class DeleteUser {
         public void requestSendDeleteUser() {
             given().when().get(url);
         }
+
     }
 

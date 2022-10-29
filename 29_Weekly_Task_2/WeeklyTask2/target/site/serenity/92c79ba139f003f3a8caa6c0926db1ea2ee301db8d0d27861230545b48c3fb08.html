@@ -148,7 +148,7 @@
             $("#requirements-tabs").tabs();
             $("#test-tabs").tabs();
 
-            var requirementsTree = [{"text":"User login","type":"feature","href":"92c79ba139f003f3a8caa6c0926db1ea2ee301db8d0d27861230545b48c3fb08.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-check-circle-o success-icon \u0027 title\u003d\u0027SUCCESS\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e1 scenario\u003c/span\u003e"]}];
+            var requirementsTree = [{"text":"User login","type":"feature","href":"92c79ba139f003f3a8caa6c0926db1ea2ee301db8d0d27861230545b48c3fb08.html","nodes":[],"selectable":false,"tags":["\u003ca href\u003d\u0027##beforetable\u0027\u003e\u003ci class\u003d\u0027fa fa-times-circle failure-icon \u0027 title\u003d\u0027FAILURE\u0027\u003e\u003c/i\u003e\u003c/a\u003e","\u003cspan class\u003d\u0027feature-count\u0027\u003e2 scenarios\u003c/span\u003e"]}];
 
             $('#tree').treeview({
                 data: requirementsTree,
@@ -218,7 +218,7 @@
             <a href="#"><i class="fa fa-comments-o"></i> Features</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 27-10-2022 22:49</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 29-10-2022 20:28</span>
     <br style="clear:left"/>
 </div>
 
@@ -318,11 +318,21 @@ So I can access all features
                                                                                 <table>
                                                                                     <tr>
                                                                                         <td>
-                                                                                                
-                                                                                                
+                                                                                            <a style="margin-left:0.5em;padding-right: 1.5em;"
+                                                                                               href="beb7ab0515e7e444d22502905ae3c2ccb2db53a675cd7ee92b2972bb2e812627.html"
+                                                                                               title="View test results">
+                                                                                                <a href='##beforetable'><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></a>
+                                                                                                </a>
 
 
                                                                                         </td>
+                                                                                            <td>
+                                                                                                <a style="margin-left:0.5em;padding-right: 1.5em;"
+                                                                                                   href="beb7ab0515e7e444d22502905ae3c2ccb2db53a675cd7ee92b2972bb2e812627.html"
+                                                                                                   title="View test results">
+                                                                                                    <i class="fas fa-search-plus"></i>
+                                                                                                </a>
+                                                                                            </td>
                                                                                     </tr>
                                                                                 </table>
                                                                             </td>
@@ -333,7 +343,7 @@ So I can access all features
 
                                                     <h3>Scenarios</h3>
 
-                                                        <a name="9dccdd78-9624-4e9e-b994-075e5c73b88c" ></a>
+                                                        <a name="6173e4a4-a994-4392-8875-060d5883667d" ></a>
 
 
                                                             <div class="scenario-docs card" id="7d864e5ce5bbd661c562d4239eaaea9daceb566e26848cb9660035d1fe6670f9">
@@ -362,18 +372,17 @@ So I can access all features
                                                             </div>
 
                                                             <div class="scenario-docs card" id="0395e75c11f0c546c90919c2da684f6ba2add7cbdc790e65498333a8266a880e">
-                                                                <div class="scenario-docs card-header undefined"
+                                                                <div class="scenario-docs card-header failure"
                                                                      style="min-height:1.5em;">
                                                                     <div>
                                                             <span class="scenario-heading">
-                                                                <a href=""
+                                                                <a href="beb7ab0515e7e444d22502905ae3c2ccb2db53a675cd7ee92b2972bb2e812627.html"
                                                                    title="View test results">Scenario: Login with invalid username and password</a>
                                                             </span>
                                                                         <span class="scenario-result-icon">
                                                                 
 
-                                                                                <i class="fas fa-pause"
-                                                                                   title="No test has been implemented yet"></i>
+                                                                                <a href='##beforetable'><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></a>
                                                             </span>
                                                                     </div>
                                                                 </div>
@@ -401,10 +410,10 @@ So I can access all features
                                                 </div>
                                                 <script>
 
-                                                    var labels = ['100%', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '];
+                                                    var labels = ['50%', ' ', ' ', ' ', ' ', ' ', ' ', ' ', '50%', ' ', ' ', ' ', ' ', ' '];
                                                     // Our series array that contains series objects or in this case series data arrays
 
-                                                    var series = [{meta: 'Passing tests (automated)', value: 1}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 0}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 0}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 0}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
+                                                    var series = [{meta: 'Passing tests (automated)', value: 1}, {meta: 'Passing tests (manual)', value: 0}, {meta: 'Pending tests (automated)', value: 0}, {meta: 'Pending tests (manual)', value: 0}, {meta: 'Ignored tests (automated)', value: 0}, {meta: 'Ignored tests (manual)', value: 0}, {meta: 'Skipped tests (automated)', value: 0}, {meta: 'Skipped tests (manual)', value: 0}, {meta: 'Failing tests (automated)', value: 1}, {meta: 'Failing tests (manual)', value: 0}, {meta: 'Broken tests (automated)', value: 0}, {meta: 'Broken tests (manual)', value: 0}, {meta: 'Compromised tests (automated)', value: 0}, {meta: 'Compromised tests (manual)', value: 0}];
 
                                                     // As options we currently only set a static size of 300x200 px. We can also omit this and use aspect ratio containers
                                                     // as you saw in the previous example
@@ -448,7 +457,7 @@ So I can access all features
                                                                                 class='fa fa-check-circle-o success-icon'></i>&nbsp;Passing</a>
                                                                 </td>
                                                             <td class="automated-stats">1</td>
-                                                            <td class="automated-stats">100%</td>
+                                                            <td class="automated-stats">50%</td>
                                                         </tr>
                                                         <tr>
                                                                 <td class="aggregate-result-count"><i
@@ -472,19 +481,19 @@ So I can access all features
                                                             <td class="automated-stats"> </td>
                                                         </tr>
                                                         <tr>
-                                                                    <td colspan="3"><i
-                                                                                class='fa fa-times failure-icon'></i>&nbsp;<em>Unsuccessful</em></a>
+                                                                    <td colspan="3"><a href="11382fe077c3cd0cb320d0312d195ec3336c5afee8ca27486089b27b1b71be9c.html"><i
+                                                                                    class='fa fa-times failure-icon'></i>&nbsp;<em>Unsuccessful</em></a>
                                                                     </td>
 
                                                         </tr>
 
                                                         <tr>
                                                                 <td class="aggregate-result-count indented-error-category">
-                                                                    <i
-                                                                            class='fa fa-times-circle failure-icon'></i>&nbsp;Failed
+                                                                    <a href="9489e1aff5a291ac3372fb95c99c1ddc92a6022c8129bd6630dbe2a1b7c84303.html"><i
+                                                                                class='fa fa-times-circle failure-icon'></i>&nbsp;Failed</a>
                                                                 </td>
-                                                            <td class="automated-stats">0</td>
-                                                            <td class="automated-stats"> </td>
+                                                            <td class="automated-stats">1</td>
+                                                            <td class="automated-stats">50%</td>
                                                         <tr>
                                                                 <td class="aggregate-result-count indented-error-category">
                                                                     <i
@@ -502,7 +511,7 @@ So I can access all features
                                                         </tr>
                                                         <tr class="summary-stats">
                                                             <td class="aggregate-result-count">Total</td>
-                                                            <td class="automated-stats">1</td>
+                                                            <td class="automated-stats">2</td>
                                                             <td class="automated-stats"></td>
                                                         </tr>
                                                         </tbody>
@@ -524,11 +533,11 @@ So I can access all features
                                                         </thead>
                                                         <tbody>
                                                         <tr>
-                                                            <td>3s</td>
-                                                            <td>0ms</td>
-                                                            <td>3s</td>
+                                                            <td>35s</td>
                                                             <td>3s</td>
                                                             <td>3s</td>
+                                                            <td>32s</td>
+                                                            <td>17s</td>
                                                         </tr>
                                                         </tbody>
                                                     </table>
@@ -557,23 +566,23 @@ So I can access all features
                                                                             <a href="1c3189fdb34af3ed733594e8f04e0260b92b743f3da71eb2ca0e9f1d9111e954.html">Login with valid username and password</a>
                                                                     </td>
                                                                     <td>4</td>
-                                                                    <td>22:49:30</td>
-                                                                    <td>3s 779ms</td>
+                                                                    <td>20:28:57</td>
+                                                                    <td>3s 549ms</td>
                                                                     <td>
                                                                             <a href='##beforetable'><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></a> <span
                                                                                 style="display:none">SUCCESS</span>
                                                                     </td>
                                                                 </tr>
-                                                                <tr class="scenario-result UNDEFINED">
+                                                                <tr class="scenario-result FAILURE">
                                                                     <td>
-                                                                            Login with invalid username and password
+                                                                            <a href="beb7ab0515e7e444d22502905ae3c2ccb2db53a675cd7ee92b2972bb2e812627.html">Login with invalid username and password</a>
                                                                     </td>
                                                                     <td>4</td>
-                                                                    <td></td>
-                                                                    <td></td>
+                                                                    <td>20:29:01</td>
+                                                                    <td>32s 214ms</td>
                                                                     <td>
-                                                                            <i class="fas fa-pause"
-                                                                               title="No test has been implemented yet"></i>
+                                                                            <a href='##beforetable'><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></a> <span
+                                                                                style="display:none">FAILURE</span>
                                                                     </td>
                                                                 </tr>
                                                             </tbody>

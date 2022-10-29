@@ -1,4 +1,4 @@
-Feature:
+Feature: Get product
   As a user
   I want to get all product
   So I can manage the product
